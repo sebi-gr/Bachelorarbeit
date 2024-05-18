@@ -1,0 +1,1 @@
+"Insecure JavaMail SSL Configuration","Configuring a Java application to use authenticated mail session over SSL without certificate validation makes the session susceptible to a man-in-the-middle attack.","warning","Java mailing has insecure SSL configuration.","/src/main/java/PasswordResetService.java","18","27","22","10"

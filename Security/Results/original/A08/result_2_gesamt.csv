@@ -1,0 +1,2 @@
+"Failure to use SSL","Non-SSL connections can be intercepted by third parties.","recommendation","Stream using vulnerable non-SSL socket.","/src/main/java/Main.java","12","39","12","61"
+"Untrusted data passed to external API","Data provided remotely is used in this external API without sanitization, which could be a security risk.","error","Call to java.nio.ByteBuffer.wrap with untrusted data from [[""getInputStream(...) : InputStream""|""relative:///src/main/java/Main.java:12:39:12:61""]].","/src/main/java/Main.java","17","53","17","58"

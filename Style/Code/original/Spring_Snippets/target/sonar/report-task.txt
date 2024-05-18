@@ -1,0 +1,6 @@
+projectKey=Bachelorarbeit-Spring
+serverUrl=http://localhost:9000
+serverVersion=10.4.1.88267
+dashboardUrl=http://localhost:9000/dashboard?id=Bachelorarbeit-Spring
+ceTaskId=4aabb972-6ffd-46c5-9739-a0f32ff67a87
+ceTaskUrl=http://localhost:9000/api/ce/task?id=4aabb972-6ffd-46c5-9739-a0f32ff67a87

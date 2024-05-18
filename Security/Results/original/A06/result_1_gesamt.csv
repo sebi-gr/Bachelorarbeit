@@ -1,0 +1,2 @@
+"Failure to use HTTPS URLs","Non-HTTPS connections can be intercepted by third parties.","recommendation","URL may have been constructed with HTTP protocol, using [[""this HTTP URL""|""relative:///src/main/java/Main.java:13:43:13:66""]].","/src/main/java/Main.java","13","43","13","66"
+"Failure to use HTTPS URLs","Non-HTTPS connections can be intercepted by third parties.","recommendation","URL may have been constructed with HTTP protocol, using [[""this HTTP URL""|""relative:///src/main/java/Main.java:13:43:13:66""]].","/src/main/java/Main.java","16","60","16","66"

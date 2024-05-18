@@ -1,0 +1,4 @@
+- description: OWASP Top 10 A08
+
+- queries: Security/CWE/CWE-502/
+- queries: Security/CWE/CWE-829/

@@ -1,0 +1,2 @@
+severity	updateDate	comments	line	author	rule	project	effort	messageFormattings	message	creationDate	type	quickFixAvailable	tags	component	flows	scope	textRange	debt	key	hash	status
+BLOCKER	2024-03-22T11:19:15+0100		17.0		java:S6437	A03-Prompt1	1h		Revoke and change this password, as it is compromised.	2024-03-22T11:19:15+0100	VULNERABILITY	false	"cwe / owasp-a2 / "	A03-Prompt1:src/main/java/UserSearch.java		MAIN	{startLine=17.0, endLine=17.0, startOffset=114.0, endOffset=124.0}	1h	AY5lrCB5SDR9JrBcDWvS	aacd2e912027858e5cb8e36a67941007	OPEN

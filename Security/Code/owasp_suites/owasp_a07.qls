@@ -1,0 +1,7 @@
+- description: OWASP Top 10 A07
+
+- queries: Security/CWE/CWE-287/
+- queries: Security/CWE/CWE-295/
+- queries: Security/CWE/CWE-297/
+- queries: Security/CWE/CWE-798/
+- queries: Security/CWE/CWE-940/

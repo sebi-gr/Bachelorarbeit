@@ -1,0 +1,1 @@
+"Use of a broken or risky cryptographic algorithm","Using broken or weak cryptographic algorithms can allow an attacker to compromise security.","warning","Cryptographic algorithm [[""PBKDF2WithHmacSHA1""|""relative:///src/main/java/User.java:33:52:33:71""]] is weak and should not be used.","/src/main/java/User.java","33","23","33","72"

@@ -1,0 +1,6 @@
+projectKey=A03-Prompt1
+serverUrl=http://localhost:9000
+serverVersion=9.9.4.87374
+dashboardUrl=http://localhost:9000/dashboard?id=A03-Prompt1
+ceTaskId=AY5lrBUTXT5Lc-DuiQNc
+ceTaskUrl=http://localhost:9000/api/ce/task?id=AY5lrBUTXT5Lc-DuiQNc

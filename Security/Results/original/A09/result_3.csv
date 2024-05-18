@@ -1,0 +1,1 @@
+"Insertion of sensitive information into log files","Writing sensitive information to log files can allow that information to be leaked to an attacker more easily.","warning","This [[""potentially sensitive information""|""relative:///src/main/java/User.java:20:34:20:41""]] is written to a log file.","/src/main/java/Main.java","25","21","25","35"

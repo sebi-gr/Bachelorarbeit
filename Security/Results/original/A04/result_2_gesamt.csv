@@ -1,0 +1,1 @@
+"Failure to use secure cookies","Insecure cookies may be sent in cleartext, which makes them vulnerable to interception.","error","Cookie is added to response without the 'secure' flag being set.","/src/main/java/Main.java","8","9","8","34"

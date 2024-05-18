@@ -1,0 +1,404 @@
+﻿Consecutive ID;Filename;Characteristic;Rating;Reasoning
+1;MainAnnotations.java;Source File Structure;Fully Fulfilled;Proper order of package and import statements, class declaration, with correct spacing and indentation.
+2;MainAnnotations.java;Column Limit;Fully Fulfilled;All lines are within the 100 characters limit.
+3;MainAnnotations.java;Naming Conventions;Fully Fulfilled;Proper naming conventions for classes, methods, and variables.
+4;MainAnnotations.java;Indentation;Fully Fulfilled;Consistent use of correct indentation with spaces.
+5;MainAnnotations.java;Braces Style;Fully Fulfilled;Correct K&R style for braces.
+6;MainAnnotations.java;Line-wrapping Techniques;Non Applicable;Not applicable due to column limit adherence.
+7;MainAnnotations.java;Javadoc Style;Not Fulfilled;No Javadoc comments present.
+8;MainAnnotations.java;Annotations Usage;Non Applicable;No annotations are used in the file.
+9;MainAnnotations.java;Imports Organization;Fully Fulfilled;Imports are organized without wildcard imports, with correct ordering and spacing.
+10;MainAnnotations.java;Comments Style;Not Fulfilled;No comments are present.
+11;MainAnnotations.java;Usage of Logger;Not Fulfilled;Consistent use of System.out.println() instead of Logger.
+12;MainAnnotations.java;Exception Handling;Partially Fulfilled;Proper exception handling with try-catch blocks but meaningless logging.
+13;MainAnnotations.java;Resource Management;Non Applicable;No resource management required in the file.
+14;ExampleClass.java;Source File Structure;Fully Fulfilled;Correct order of package statement, class declaration with proper spacing and indentation.
+15;ExampleClass.java;Column Limit;Fully Fulfilled;All lines are within the 100 characters limit.
+16;ExampleClass.java;Naming Conventions;Fully Fulfilled;Proper naming conventions for classes and methods.
+17;ExampleClass.java;Indentation;Fully Fulfilled;Consistent use of correct indentation with spaces.
+18;ExampleClass.java;Braces Style;Fully Fulfilled;Correct K&R style for braces.
+19;ExampleClass.java;Line-wrapping Techniques;Non Applicable;Not applicable due to column limit adherence.
+20;ExampleClass.java;Javadoc Style;Not Fulfilled;No Javadoc comments present.
+21;ExampleClass.java;Annotations Usage;Fully Fulfilled;Annotations are used correctly and placed appropriately on methods.
+22;ExampleClass.java;Imports Organization;Non Applicable;No import statements present.
+23;ExampleClass.java;Comments Style;Not Fulfilled;No comments are present.
+24;ExampleClass.java;Usage of Logger;Not Fulfilled;Consistent use of System.out.println() instead of Logger.
+25;ExampleClass.java;Exception Handling;Non Applicable;No exception handling required in the file.
+26;ExampleClass.java;Resource Management;Non Applicable;No resource management required in the file.
+27;CustomAnnotation.java;Source File Structure;Fully Fulfilled;Correct order of package and import statements, and annotation interface declaration with proper spacing and indentation.
+28;CustomAnnotation.java;Column Limit;Fully Fulfilled;All lines are within the 100 characters limit.
+29;CustomAnnotation.java;Naming Conventions;Fully Fulfilled;Proper naming conventions for the annotation interface.
+30;CustomAnnotation.java;Indentation;Fully Fulfilled;Consistent use of correct indentation with spaces.
+31;CustomAnnotation.java;Braces Style;Fully Fulfilled;Correct K&R style for braces.
+32;CustomAnnotation.java;Line-wrapping Techniques;Non Applicable;Not applicable due to column limit adherence.
+33;CustomAnnotation.java;Javadoc Style;Not Fulfilled;No Javadoc comments present.
+34;CustomAnnotation.java;Annotations Usage;Fully Fulfilled;Correct use of meta-annotations to define the annotation.
+35;CustomAnnotation.java;Imports Organization;Fully Fulfilled;Imports are organized without wildcard imports, with correct ordering and spacing.
+36;CustomAnnotation.java;Comments Style;Not Fulfilled;No comments are present.
+37;CustomAnnotation.java;Usage of Logger;Non Applicable;No logging is needed in the file.
+38;CustomAnnotation.java;Exception Handling;Non Applicable;No exception handling required in the file.
+39;CustomAnnotation.java;Resource Management;Non Applicable;No resource management required in the file.
+40;MainAlgorithm.java;Source File Structure;Fully Fulfilled;Correct order of package statement, import statements (N/A), and class declaration with proper spacing and indentation.
+41;MainAlgorithm.java;Column Limit;Fully Fulfilled;All lines are within the 100 characters limit.
+42;MainAlgorithm.java;Naming Conventions;Fully Fulfilled;Class and variable names follow proper naming conventions.
+43;MainAlgorithm.java;Indentation;Partially Fulfilled;Indentation is correct but whitespaces are inconsistent.
+44;MainAlgorithm.java;Braces Style;Fully Fulfilled;Correct K&R brace style used.
+45;MainAlgorithm.java;Line-wrapping Techniques;Non Applicable;Not applicable due to column limit adherence.
+46;MainAlgorithm.java;Javadoc Style;Not Fulfilled;No Javadoc present.
+47;MainAlgorithm.java;Annotations Usage;Non Applicable;No annotations are used in the file.
+48;MainAlgorithm.java;Imports Organization;Non Applicable;No import statements are present in the file.
+49;MainAlgorithm.java;Comments Style;Not Fulfilled;No comments are present.
+50;MainAlgorithm.java;Usage of Logger;Not Fulfilled;Consistent use of System.out.println() instead of Logger.
+51;MainAlgorithm.java;Exception Handling;Non Applicable;No exception handling required in the file.
+52;MainAlgorithm.java;Resource Management;Non Applicable;No resource management required in the file.
+53;BubbleSort.java;Source File Structure;Fully Fulfilled;Correct order of package statement, import statements (N/A), and class declaration with proper spacing and indentation.
+54;BubbleSort.java;Column Limit;Fully Fulfilled;All lines are within the 100 characters limit
+55;BubbleSort.java;Naming Conventions;Fully Fulfilled;Class, method, and variable names follow proper naming conventions.
+56;BubbleSort.java;Indentation;Mostly Fulfilled;Indentation is correct but a lot of whitespaces are inconsistent.
+57;BubbleSort.java;Braces Style;Fully Fulfilled;Correct K&R brace style used.
+58;BubbleSort.java;Line-wrapping Techniques;Non Applicable;Not applicable due to column limit adherence.
+59;BubbleSort.java;Javadoc Style;Not Fulfilled;No Javadoc present.
+60;BubbleSort.java;Annotations Usage;Non Applicable;No annotations are used in the file.
+61;BubbleSort.java;Imports Organization;Non Applicable;No import statements are present in the file.
+62;BubbleSort.java;Comments Style;Not Fulfilled;No comments are present.
+63;BubbleSort.java;Usage of Logger;Non Applicable;No logging is needed in the file.
+64;BubbleSort.java;Exception Handling;Non Applicable;No exception handling required in the file.
+65;BubbleSort.java;Resource Management;Non Applicable;No resource management required in the file.
+66;MainOOPM.java;Source File Structure;Fully Fulfilled;Proper order of package statement, class declaration with correct spacing and indentation.
+67;MainOOPM.java;Column Limit;Fully Fulfilled;All lines are within the 100 characters limit.
+68;MainOOPM.java;Naming Conventions;Fully Fulfilled;Proper naming conventions for classes and variables.
+69;MainOOPM.java;Indentation;Fully Fulfilled;Consistent use of correct indentation with spaces.
+70;MainOOPM.java;Braces Style;Fully Fulfilled;Correct K&R style for braces.
+71;MainOOPM.java;Line-wrapping Techniques;Non Applicable;No long lines that require wrapping.
+72;MainOOPM.java;Javadoc Style;Not Fulfilled;No Javadoc comments present.
+73;MainOOPM.java;Annotations Usage;Non Applicable;No annotations are used in the file.
+74;MainOOPM.java;Imports Organization;Non Applicable;No import statements are present.
+75;MainOOPM.java;Comments Style;Not Fulfilled;No comments are present.
+76;MainOOPM.java;Usage of Logger;Non Applicable;No logging is needed in the file.
+77;MainOOPM.java;Exception Handling;Non Applicable;No exception handling required in the file.
+78;MainOOPM.java;Resource Management;Non Applicable;No resource management required in the file.
+79;AdminUser.java;Source File Structure;Fully Fulfilled;Proper order of package statement, class declaration with correct spacing and indentation.
+80;AdminUser.java;Column Limit;Fully Fulfilled;All lines are within the 100 characters limit.
+81;AdminUser.java;Naming Conventions;Fully Fulfilled;Proper naming conventions for classes, methods, and variables.
+82;AdminUser.java;Indentation;Fully Fulfilled;Consistent use of correct indentation with spaces.
+83;AdminUser.java;Braces Style;Fully Fulfilled;Correct K&R style for braces.
+84;AdminUser.java;Line-wrapping Techniques;Non Applicable;No long lines that require wrapping.
+85;AdminUser.java;Javadoc Style;Not Fulfilled;No Javadoc comments present.
+86;AdminUser.java;Annotations Usage;Non Applicable;No annotations are used in the file.
+87;AdminUser.java;Imports Organization;Non Applicable;No import statements are present.
+88;AdminUser.java;Comments Style;Not Fulfilled;No comments are present.
+89;AdminUser.java;Usage of Logger;Not Fulfilled;Consistent use of System.out.println() instead of Logger.
+90;AdminUser.java;Exception Handling;Non Applicable;No exception handling required in the file.
+91;AdminUser.java;Resource Management;Partially Fulfilled; Field adminLevel may be final. Method getAdminLevel() is never used.
+92;UserOOPM.java;Source File Structure;Fully Fulfilled;Proper order of package statement, class declaration with correct spacing and indentation.
+93;UserOOPM.java;Column Limit;Fully Fulfilled;All lines are within the 100 characters limit.
+94;UserOOPM.java;Naming Conventions;Fully Fulfilled;Proper naming conventions for classes, methods, and variables.
+95;UserOOPM.java;Indentation;Fully Fulfilled;Consistent use of correct indentation with spaces.
+96;UserOOPM.java;Braces Style;Fully Fulfilled;Correct K&R style for braces.
+97;UserOOPM.java;Line-wrapping Techniques;Non Applicable;No long lines that require wrapping.
+98;UserOOPM.java;Javadoc Style;Not Fulfilled;No Javadoc comments present.
+99;UserOOPM.java;Annotations Usage;Non Applicable;No annotations are used in the file.
+100;UserOOPM.java;Imports Organization;Non Applicable;No import statements are present.
+101;UserOOPM.java;Comments Style;Not Fulfilled;No comments are present.
+102;UserOOPM.java;Usage of Logger;Not Fulfilled;Consistent use of System.out.println() instead of Logger.
+103;UserOOPM.java;Exception Handling;Non Applicable;No exception handling required in the file.
+104;UserOOPM.java;Resource Management;Mostly Fulfilled; Method getUsername() is never used.
+105;MainReflection.java;Source File Structure;Fully Fulfilled;Proper order of package and import statements, class declaration with correct spacing and indentation.
+106;MainReflection.java;Column Limit;Mostly Fulfilled;Most lines are within the 100 characters limit, with a few exceptions.
+107;MainReflection.java;Naming Conventions;Fully Fulfilled;Proper naming conventions for classes, methods, and variables.
+108;MainReflection.java;Indentation;Fully Fulfilled;Consistent use of correct indentation with spaces.
+109;MainReflection.java;Braces Style;Fully Fulfilled;Correct K&R style for braces.
+110;MainReflection.java;Line-wrapping Techniques;Mostly Fulfilled;Most long lines are wrapped effectively, with minor issues. '|' should be in new line.
+111;MainReflection.java;Javadoc Style;Not Fulfilled;No Javadoc comments present.
+112;MainReflection.java;Annotations Usage;Non Applicable;No annotations are used in the file.
+113;MainReflection.java;Imports Organization;Fully Fulfilled;Imports are organized without wildcard imports, with correct ordering and spacing.
+114;MainReflection.java;Comments Style;Not Fulfilled;No comments are present.
+115;MainReflection.java;Usage of Logger;Not Fulfilled;Consistent use of System.out.println() instead of Logger.
+116;MainReflection.java;Exception Handling;Mostly Fulfilled;Proper exception handling with try-catch blocks but meaningless logging.
+117;MainReflection.java;Resource Management;Non Applicable;No resource management required in the file.
+118;Person.java;Source File Structure;Fully Fulfilled;Proper order of package statement, class declaration with correct spacing and indentation.
+119;Person.java;Column Limit;Fully Fulfilled;All lines are within the 100 characters limit.
+120;Person.java;Naming Conventions;Fully Fulfilled;Proper naming conventions for classes, methods, and variables.
+121;Person.java;Indentation;Fully Fulfilled;Consistent use of correct indentation with spaces.
+122;Person.java;Braces Style;Fully Fulfilled;Correct K&R style for braces.
+123;Person.java;Line-wrapping Techniques;Non Applicable;No long lines that require wrapping.
+124;Person.java;Javadoc Style;Not Fulfilled;No Javadoc comments present.
+125;Person.java;Annotations Usage;Non Applicable;No annotations are used in the file.
+126;Person.java;Imports Organization;Non Applicable;No import statements are present.
+127;Person.java;Comments Style;Not Fulfilled;No comments are present.
+128;Person.java;Usage of Logger;Non Applicable;No logging is needed in the file.
+129;Person.java;Exception Handling;Non Applicable;No exception handling required in the file.
+130;Person.java;Resource Management;Mostly Fulfilled;Field name should be final.
+131;MainLamda.java;Source File Structure;Fully Fulfilled;Proper order of package statement, class declaration with correct spacing and indentation.
+132;MainLamda.java;Column Limit;Fully Fulfilled;All lines are within the 100 characters limit.
+133;MainLamda.java;Naming Conventions;Fully Fulfilled;Proper naming conventions for classes and variables.
+134;MainLamda.java;Indentation;Fully Fulfilled;Consistent use of correct indentation with spaces.
+135;MainLamda.java;Braces Style;Fully Fulfilled;Correct K&R style for braces.
+136;MainLamda.java;Line-wrapping Techniques;Non Applicable;No long lines that require wrapping.
+137;MainLamda.java;Javadoc Style;Not Fulfilled;No Javadoc comments present.
+138;MainLamda.java;Annotations Usage;Non Applicable;No annotations used in this particular file.
+139;MainLamda.java;Imports Organization;Non Applicable;No import statements are present.
+140;MainLamda.java;Comments Style;Not Fulfilled;No comments are present.
+141;MainLamda.java;Usage of Logger;Not Fulfilled;Consistent use of System.out.println() instead of Logger.
+142;MainLamda.java;Exception Handling;Non Applicable;No exception handling required in the file.
+143;MainLamda.java;Resource Management;Non Applicable;No resource management required in the file.
+144;MathOperation.java;Source File Structure;Fully Fulfilled;Proper order of package statement, interface declaration with correct spacing and indentation.
+145;MathOperation.java;Column Limit;Fully Fulfilled;All lines are within the 100 characters limit.
+146;MathOperation.java;Naming Conventions;Fully Fulfilled;Proper naming conventions for interface and method.
+147;MathOperation.java;Indentation;Fully Fulfilled;Consistent use of correct indentation with spaces.
+148;MathOperation.java;Braces Style;Fully Fulfilled;Correct K&R style for braces.
+149;MathOperation.java;Line-wrapping Techniques;Non Applicable;No long lines that require wrapping.
+150;MathOperation.java;Javadoc Style;Not Fulfilled;No Javadoc comments present.
+151;MathOperation.java;Annotations Usage;Fully Fulfilled;Correct use of @FunctionalInterface annotation.
+152;MathOperation.java;Imports Organization;Non Applicable;No import statements are present.
+153;MathOperation.java;Comments Style;Not Fulfilled;No comments are present.
+154;MathOperation.java;Usage of Logger;Non Applicable;No logging is needed in the file.
+155;MathOperation.java;Exception Handling;Non Applicable;No exception handling required in the file.
+156;MathOperation.java;Resource Management;Non Applicable;No resource management required in the file.
+157;MainGenerics.java;Source File Structure;Fully Fulfilled;Proper order of package statement, class declaration with correct spacing and indentation.
+158;MainGenerics.java;Column Limit;Fully Fulfilled;All lines are within the 100 characters limit.
+159;MainGenerics.java;Naming Conventions;Fully Fulfilled;Proper naming conventions for classes and variables.
+160;MainGenerics.java;Indentation;Fully Fulfilled;Consistent use of correct indentation with spaces.
+161;MainGenerics.java;Braces Style;Fully Fulfilled;Correct K&R style for braces.
+162;MainGenerics.java;Line-wrapping Techniques;Non Applicable;No long lines that require wrapping.
+163;MainGenerics.java;Javadoc Style;Not Fulfilled;No Javadoc comments present.
+164;MainGenerics.java;Annotations Usage;Non Applicable;No annotations used in this particular file.
+165;MainGenerics.java;Imports Organization;Non Applicable;No import statements are present.
+166;MainGenerics.java;Comments Style;Not Fulfilled;No comments are present.
+167;MainGenerics.java;Usage of Logger;Not Fulfilled;Consistent use of System.out.println() instead of Logger.
+168;MainGenerics.java;Exception Handling;Non Applicable;No exception handling required in the file.
+169;MainGenerics.java;Resource Management;Non Applicable;No resource management required in the file.
+170;Pair.java;Source File Structure;Fully Fulfilled;Proper order of package statement, class declaration with correct spacing and indentation.
+171;Pair.java;Column Limit;Fully Fulfilled;All lines are within the 100 characters limit.
+172;Pair.java;Naming Conventions;Fully Fulfilled;Proper naming conventions for classes and methods.
+173;Pair.java;Indentation;Fully Fulfilled;Consistent use of correct indentation with spaces.
+174;Pair.java;Braces Style;Fully Fulfilled;Correct K&R style for braces.
+175;Pair.java;Line-wrapping Techniques;Non Applicable;No long lines that require wrapping.
+176;Pair.java;Javadoc Style;Not Fulfilled;No Javadoc comments present.
+177;Pair.java;Annotations Usage;Non Applicable;No annotations are used in the file.
+178;Pair.java;Imports Organization;Non Applicable;No import statements are present.
+179;Pair.java;Comments Style;Not Fulfilled;No comments are present.
+180;Pair.java;Usage of Logger;Non Applicable;No logging is needed in the file.
+181;Pair.java;Exception Handling;Non Applicable;No exception handling required in the file.
+182;Pair.java;Resource Management;Mostly Fulfilled;No resource management required in the file but key and value field could be final.
+183;Util.java;Source File Structure;Fully Fulfilled;Proper order of package statement, class declaration with correct spacing and indentation.
+184;Util.java;Column Limit;Fully Fulfilled;All lines are within the 100 characters limit.
+185;Util.java;Naming Conventions;Fully Fulfilled;Proper naming conventions for classes and methods.
+186;Util.java;Indentation;Fully Fulfilled;Consistent use of correct indentation with spaces.
+187;Util.java;Braces Style;Fully Fulfilled;Correct K&R style for braces.
+188;Util.java;Line-wrapping Techniques;Non Applicable;No long lines that require wrapping.
+189;Util.java;Javadoc Style;Not Fulfilled;No Javadoc comments present.
+190;Util.java;Annotations Usage;Non Applicable;No annotations are used in the file.
+191;Util.java;Imports Organization;Non Applicable;No import statements are present.
+192;Util.java;Comments Style;Not Fulfilled;No comments are present.
+193;Util.java;Usage of Logger;Non Applicable;No logging is needed in the file.
+194;Util.java;Exception Handling;Non Applicable;No exception handling required in the file.
+195;Util.java;Resource Management;Non Applicable;No resource management required in the file.
+196;Box.java;Source File Structure;Fully Fulfilled;Proper order of package statement, class declaration with correct spacing and indentation.
+197;Box.java;Column Limit;Fully Fulfilled;All lines are within the 100 characters limit.
+198;Box.java;Naming Conventions;Fully Fulfilled;Proper naming conventions for classes and methods.
+199;Box.java;Indentation;Fully Fulfilled;Consistent use of correct indentation with spaces.
+200;Box.java;Braces Style;Fully Fulfilled;Correct K&R style for braces.
+201;Box.java;Line-wrapping Techniques;Non Applicable;No long lines that require wrapping.
+202;Box.java;Javadoc Style;Not Fulfilled;No Javadoc comments present.
+203;Box.java;Annotations Usage;Non Applicable;No annotations are used in the file.
+204;Box.java;Imports Organization;Non Applicable;No import statements are present.
+205;Box.java;Comments Style;Not Fulfilled;No comments are present.
+206;Box.java;Usage of Logger;Non Applicable;No logging is needed in the file.
+207;Box.java;Exception Handling;Non Applicable;No exception handling required in the file.
+208;Box.java;Resource Management;Non Applicable;No resource management required in the file.
+209;MainFiles.java;Source File Structure;Fully Fulfilled;Proper order of package and import statements, class declaration with correct spacing and indentation.
+210;MainFiles.java;Column Limit;Fully Fulfilled;All lines are within the 100 characters limit.
+211;MainFiles.java;Naming Conventions;Fully Fulfilled;Proper naming conventions for classes and variables.
+212;MainFiles.java;Indentation;Fully Fulfilled;Consistent use of correct indentation with spaces.
+213;MainFiles.java;Braces Style;Fully Fulfilled;Correct K&R style for braces.
+214;MainFiles.java;Line-wrapping Techniques;Non Applicable;No long lines that require wrapping.
+215;MainFiles.java;Javadoc Style;Not Fulfilled;No Javadoc comments present.
+216;MainFiles.java;Annotations Usage;Non Applicable;No annotations used in this particular file.
+217;MainFiles.java;Imports Organization;Fully Fulfilled;Imports are organized without wildcard imports, with correct ordering and spacing.
+218;MainFiles.java;Comments Style;Not Fulfilled;No comments are present.
+219;MainFiles.java;Usage of Logger;Not Fulfilled;No logging is present.
+220;MainFiles.java;Exception Handling;Partially Fulfilled;Generic IOException is used for all exceptions. Basic printStackTrace() is used for exception handling.
+221;MainFiles.java;Resource Management;Not Fulfilled;Resources are not closed. Not even in exception handling.
+222;FileHandler.java;Source File Structure;Fully Fulfilled;Proper order of package and import statements, class declaration with correct spacing and indentation.
+223;FileHandler.java;Column Limit;Fully Fulfilled;All lines are within the 100 characters limit.
+224;FileHandler.java;Naming Conventions;Fully Fulfilled;Proper naming conventions for classes, methods, and variables.
+225;FileHandler.java;Indentation;Fully Fulfilled;Consistent use of correct indentation with spaces.
+226;FileHandler.java;Braces Style;Fully Fulfilled;Correct K&R style for braces.
+227;FileHandler.java;Line-wrapping Techniques;Non Applicable;No long lines that require wrapping.
+228;FileHandler.java;Javadoc Style;Not Fulfilled;No Javadoc comments present.
+229;FileHandler.java;Annotations Usage;Non Applicable;No annotations are used in the file.
+230;FileHandler.java;Imports Organization;Not Fulfilled;Wildcard imports are used.
+231;FileHandler.java;Comments Style;Not Fulfilled;No comments are present.
+232;FileHandler.java;Usage of Logger;Not Fulfilled;Consistent use of System.out.println() instead of Logger.
+233;FileHandler.java;Exception Handling;Not Fulfilled;No exception handling is present even though resources are being used.
+234;FileHandler.java;Resource Management;Partially Fulfilled;Resources are closed but no usage of try-with-resources. Fields could be final.
+235;SocketClient.java;Source File Structure;Fully Fulfilled;Proper order of package and import statements, class declaration with correct spacing and indentation.
+236;SocketClient.java;Column Limit;Fully Fulfilled;All lines are within the 100 characters limit.
+237;SocketClient.java;Naming Conventions;Fully Fulfilled;Proper naming conventions for classes, variables, and methods.
+238;SocketClient.java;Indentation;Fully Fulfilled;Consistent use of correct indentation with spaces.
+239;SocketClient.java;Braces Style;Fully Fulfilled;Correct K&R style for braces.
+240;SocketClient.java;Line-wrapping Techniques;Non Applicable;Not applicable due to column limit adherence.
+241;SocketClient.java;Javadoc Style;Not Fulfilled;No Javadoc comments present.
+242;SocketClient.java;Annotations Usage;Non Applicable;No annotations used in this particular file.
+243;SocketClient.java;Imports Organization;Fully Fulfilled;Imports are organized without wildcard imports, with correct ordering and spacing.
+244;SocketClient.java;Comments Style;Not Fulfilled;No comments are present.
+245;SocketClient.java;Usage of Logger;Not Fulfilled;Consistent use of System.out.println() instead of Logger.
+246;SocketClient.java;Exception Handling;Not Fulfilled;No exception handling is present even though resources are being used.
+247;SocketClient.java;Resource Management;Partially Fulfilled;Resources are closed but no usage of try-with-resources. Fields could be final.
+248;SocketServer.java;Source File Structure;Fully Fulfilled;Proper order of package and import statements, class declaration with correct spacing and indentation.
+249;SocketServer.java;Column Limit;Fully Fulfilled;All lines are within the 100 characters limit.
+250;SocketServer.java;Naming Conventions;Fully Fulfilled;Proper naming conventions for classes, variables, and methods.
+251;SocketServer.java;Indentation;Fully Fulfilled;Consistent use of correct indentation with spaces.
+252;SocketServer.java;Braces Style;Fully Fulfilled;Correct K&R style for braces.
+253;SocketServer.java;Line-wrapping Techniques;Non Applicable;Not applicable due to column limit adherence.
+254;SocketServer.java;Javadoc Style;Not Fulfilled;No Javadoc comments present.
+255;SocketServer.java;Annotations Usage;Non Applicable;No annotations used in this particular file.
+256;SocketServer.java;Imports Organization;Fully Fulfilled;Imports are organized without wildcard imports, with correct ordering and spacing.
+257;SocketServer.java;Comments Style;Not Fulfilled;No comments are present.
+258;SocketServer.java;Usage of Logger;Not Fulfilled;Consistent use of System.out.println() instead of Logger.
+259;SocketServer.java;Exception Handling;Not Fulfilled;No exception handling is present even though resources are being used.
+260;SocketServer.java;Resource Management;Partially Fulfilled;Resources are closed but no usage of try-with-resources.
+261;MainThreads.java;Source File Structure;Fully Fulfilled;Proper order of package statement, class declaration with correct spacing and indentation.
+262;MainThreads.java;Column Limit;Fully Fulfilled;All lines are within the 100 characters limit.
+263;MainThreads.java;Naming Conventions;Fully Fulfilled;Proper naming conventions for classes and variables.
+264;MainThreads.java;Indentation;Fully Fulfilled;Consistent use of correct indentation with spaces.
+265;MainThreads.java;Braces Style;Fully Fulfilled;Correct K&R style for braces.
+266;MainThreads.java;Line-wrapping Techniques;Non Applicable;No long lines that require wrapping.
+267;MainThreads.java;Javadoc Style;Not Fulfilled;No Javadoc comments present.
+268;MainThreads.java;Annotations Usage;Non Applicable;No annotations used in this particular file.
+269;MainThreads.java;Imports Organization;Fully Fulfilled;Imports are organized without wildcard imports, with correct ordering and spacing.
+270;MainThreads.java;Comments Style;Not Fulfilled;No comments are present.
+271;MainThreads.java;Usage of Logger;Not Fulfilled;Consistent use of System.out.println() instead of Logger.
+272;MainThreads.java;Exception Handling;Non Applicable;No exception handling required in the file.
+273;MainThreads.java;Resource Management;Non Applicable;No resource management required in the file.
+274;CounterThread.java;Source File Structure;Fully Fulfilled;Proper order of package and import statements, class declaration with correct spacing and indentation.
+275;CounterThread.java;Column Limit;Fully Fulfilled;All lines are within the 100 characters limit.
+276;CounterThread.java;Naming Conventions;Fully Fulfilled;Proper naming conventions for classes and variables.
+277;CounterThread.java;Indentation;Fully Fulfilled;Consistent use of correct indentation with spaces.
+278;CounterThread.java;Braces Style;Fully Fulfilled;Correct K&R style for braces.
+279;CounterThread.java;Line-wrapping Techniques;Non Applicable;No long lines that require wrapping.
+280;CounterThread.java;Javadoc Style;Not Fulfilled;No Javadoc comments present.
+281;CounterThread.java;Annotations Usage;Non Applicable;No annotations are used in the file.
+282;CounterThread.java;Imports Organization;Fully Fulfilled;Imports are organized without wildcard imports, with correct ordering and spacing.
+283;CounterThread.java;Comments Style;Not Fulfilled;No comments are present.
+284;CounterThread.java;Usage of Logger;Non Applicable;No logging is needed in the file.
+285;CounterThread.java;Exception Handling;Non Applicable;No exception handling required in the file.
+286;CounterThread.java;Resource Management;Mostly Fulfilled;Field 'counter' should be final.
+287;Counter.java;Source File Structure;Fully Fulfilled;Proper order of package statement, class declaration with correct spacing and indentation.
+288;Counter.java;Column Limit;Fully Fulfilled;All lines are within the 100 characters limit.
+289;Counter.java;Naming Conventions;Fully Fulfilled;Proper naming conventions for classes and methods.
+290;Counter.java;Indentation;Fully Fulfilled;Consistent use of correct indentation with spaces.
+291;Counter.java;Braces Style;Fully Fulfilled;Correct K&R style for braces.
+292;Counter.java;Line-wrapping Techniques;Non Applicable;No long lines that require wrapping.
+293;Counter.java;Javadoc Style;Not Fulfilled;No Javadoc comments present.
+294;Counter.java;Annotations Usage;Non Applicable;No annotations are used in the file.
+295;Counter.java;Imports Organization;Non Applicable;No import statements are present.
+296;Counter.java;Comments Style;Not Fulfilled;No comments are present.
+297;Counter.java;Usage of Logger;Non Applicable;No logging is needed in the file.
+298;Counter.java;Exception Handling;Non Applicable;No exception handling required in the file.
+299;Counter.java;Resource Management;Mostly Fulfilled;Field 'counter' should be final.
+300;User.java;Source File Structure;Fully Fulfilled;Proper order of package statement, class declaration with correct spacing and indentation.
+301;User.java;Column Limit;Fully Fulfilled;All lines are within the 100 characters limit.
+302;User.java;Naming Conventions;Fully Fulfilled;Proper naming conventions for classes and variables.
+303;User.java;Indentation;Fully Fulfilled;Consistent use of correct indentation with spaces.
+304;User.java;Braces Style;Fully Fulfilled;Correct K&R style for braces.
+305;User.java;Line-wrapping Techniques;Non Applicable;No long lines that require wrapping.
+306;User.java;Javadoc Style;Not Fulfilled;No Javadoc comments present.
+307;User.java;Annotations Usage;Non Applicable;No annotations used in this particular file.
+308;User.java;Imports Organization;Non Applicable;No import statements are present.
+309;User.java;Comments Style;Not Fulfilled;No comments are present.
+310;User.java;Usage of Logger;Non Applicable;No logging is needed in the file.
+311;User.java;Exception Handling;Non Applicable;No exception handling required in the file.
+312;User.java;Resource Management;Non Applicable;No resource management required in the file.
+313;UserTest.java;Source File Structure;Fully Fulfilled;Proper order of import statements, class declaration with correct spacing and indentation.
+314;UserTest.java;Column Limit;Fully Fulfilled;All lines are within the 100 characters limit.
+315;UserTest.java;Naming Conventions;Fully Fulfilled;Proper naming conventions for classes, methods, and variables.
+316;UserTest.java;Indentation;Fully Fulfilled;Consistent use of correct indentation with spaces.
+317;UserTest.java;Braces Style;Fully Fulfilled;Correct K&R style for braces.
+318;UserTest.java;Line-wrapping Techniques;Non Applicable;No long lines that require wrapping.
+319;UserTest.java;Javadoc Style;Not Fulfilled;No Javadoc comments present.
+320;UserTest.java;Annotations Usage;Fully Fulfilled;Proper use of JUnit annotations for setup and test methods.
+321;UserTest.java;Imports Organization;Fully Fulfilled;Imports are organized without wildcard imports, with correct ordering and spacing.
+322;UserTest.java;Comments Style;Not Fulfilled;No comments are present.
+323;UserTest.java;Usage of Logger;Non Applicable;No logging is needed in the file.
+324;UserTest.java;Exception Handling;Non Applicable;No exception handling required in the file.
+325;UserTest.java;Resource Management;Mostly Fulfilled;Test methods dont need to have a public access modifier.
+326;SecurityConfig.java;Source File Structure;Fully Fulfilled;Correct order of package, import statements, and class declaration with proper spacing and indentation.
+327;SecurityConfig.java;Column Limit;Fully Fulfilled;All lines are within the 100 characters limit.
+328;SecurityConfig.java;Naming Conventions;Fully Fulfilled;Consistent adherence to naming conventions for classes, methods, constants, and variables.
+329;SecurityConfig.java;Indentation;Fully Fulfilled;Consistent use of 2 spaces per indentation level.
+330;SecurityConfig.java;Braces Style;Fully Fulfilled;Consistently uses K&R brace style.
+331;SecurityConfig.java;Line-wrapping Techniques;Non Applicable;Not applicable due to column limit adherence.
+332;SecurityConfig.java;Javadoc Style;Not Fulfilled;No Javadoc present for classes or methods.
+333;SecurityConfig.java;Annotations Usage;Partially Fulfilled;Field Injection is not recommended. 
+334;SecurityConfig.java;Imports Organization;Fully Fulfilled;No wildcard imports, correct ordering and spacing.
+335;SecurityConfig.java;Comments Style;Not Fulfilled;No comments present.
+336;SecurityConfig.java;Usage of Logger;Non Applicable;No logging is needed in the file.
+337;SecurityConfig.java;Exception Handling;Non Applicable;No exception handling required in the file.
+338;SecurityConfig.java;Resource Management;Non Applicable;No resource management required in the file.
+339;UserController.java;Source File Structure;Fully Fulfilled;Correct order of package, import statements, and class declaration with proper spacing and indentation.
+340;UserController.java;Column Limit;Fully Fulfilled;All lines are within the 100 characters limit.
+341;UserController.java;Naming Conventions;Fully Fulfilled;Consistent adherence to naming conventions for classes, methods, constants, and variables.
+342;UserController.java;Indentation;Fully Fulfilled;Consistent use of 2 spaces per indentation level.
+343;UserController.java;Braces Style;Fully Fulfilled;Consistently uses K&R brace style.
+344;UserController.java;Line-wrapping Techniques;Fully Fulfilled;Correct and consistent use of line wrapping.
+345;UserController.java;Javadoc Style;Not Fulfilled;No Javadoc present for classes or methods.
+346;UserController.java;Annotations Usage;Partially Fulfilled;Field Injection is not recommended. 
+347;UserController.java;Imports Organization;Fully Fulfilled;No wildcard imports, correct ordering and spacing.
+348;UserController.java;Comments Style;Not Fulfilled;No comments present.
+349;UserController.java;Usage of Logger;Non Applicable;No logging is needed in the file.
+350;UserController.java;Exception Handling;Non Applicable;No exception handling required in the file.
+351;UserController.java;Resource Management;Non Applicable;No resource management required in the file.
+352;UserSpring.java;Source File Structure;Fully Fulfilled;Correct order of package, import statements, and class declaration with proper spacing and indentation.
+353;UserSpring.java;Column Limit;Fully Fulfilled;All lines are within the 100 characters limit.
+354;UserSpring.java;Naming Conventions;Fully Fulfilled;Consistent adherence to naming conventions for classes, methods, constants, and variables.
+355;UserSpring.java;Indentation;Fully Fulfilled;Consistent use of 2 spaces per indentation level.
+356;UserSpring.java;Braces Style;Fully Fulfilled;Consistently uses K&R brace style.
+357;UserSpring.java;Line-wrapping Techniques;Non Applicable;Not applicable due to column limit adherence.
+358;UserSpring.java;Javadoc Style;Not Fulfilled;No Javadoc present for classes or methods.
+359;UserSpring.java;Annotations Usage;Fully Fulfilled;Correct and consistent use of annotations.
+360;UserSpring.java;Imports Organization;Fully Fulfilled;No wildcard imports, correct ordering and spacing.
+361;UserSpring.java;Comments Style;Not Fulfilled;No comments present.
+362;UserSpring.java;Usage of Logger;Non Applicable;No logging is needed in the file.
+363;UserSpring.java;Exception Handling;Non Applicable;No exception handling required in the file.
+364;UserSpring.java;Resource Management;Mostly Fulfilled;Method getId() is never used. Method setId() is never used. Metod setUsername() is never used.
+365;UserRepository.java;Source File Structure;Fully Fulfilled;Correct order of package, import, and class declaration with proper spacing and indentation.
+366;UserRepository.java;Column Limit;Fully Fulfilled;No lines exceed 100 characters.
+367;UserRepository.java;Naming Conventions;Fully Fulfilled;Consistent adherence to naming conventions for class and method.
+368;UserRepository.java;Indentation;Fully Fulfilled;Consistent use of correct indentation.
+369;UserRepository.java;Braces Style;Fully Fulfilled;Consistently uses correct K&R brace style.
+370;UserRepository.java;Line-wrapping Techniques;Non Applicable;Not applicable as there are no instances where line-wrapping is required.
+371;UserRepository.java;Javadoc Style;Not Fulfilled;No Javadoc present for the class or method.
+372;UserRepository.java;Annotations Usage;Fully Fulfilled;Correct and consistent use of annotations.
+373;UserRepository.java;Imports Organization;Fully Fulfilled;No wildcard imports, correct ordering, and spacing.
+374;UserRepository.java;Comments Style;Not Fulfilled;No comments present.
+375;UserRepository.java;Usage of Logger;Non Applicable;No logging is needed in the file.
+376;UserRepository.java;Exception Handling;Non Applicable;No exception handling required in the file.
+377;UserRepository.java;Resource Management;Non Applicable;No resource management required in the file.
+378;Application.java;Source File Structure;Fully Fulfilled;Correct order with proper spacing and indentation.
+379;Application.java;Column Limit;Fully Fulfilled;No lines exceed 100 characters.
+380;Application.java;Naming Conventions;Fully Fulfilled;Consistent adherence to naming conventions.
+381;Application.java;Indentation;Not Fulfilled;Wrong Indentation. Tab is used instead of spaces.
+382;Application.java;Braces Style;Fully Fulfilled;Consistently uses correct K&R brace style.
+383;Application.java;Line-wrapping Techniques;Non Applicable;Not applicable as there are no instances where line-wrapping is required.
+384;Application.java;Javadoc Style;Not Fulfilled;No Javadoc present.
+385;Application.java;Annotations Usage;Fully Fulfilled;Correct and consistent use of annotations.
+386;Application.java;Imports Organization;Fully Fulfilled;No wildcard imports, correct ordering, and spacing.
+387;Application.java;Comments Style;Not Fulfilled;No comments present.
+388;Application.java;Usage of Logger;Non Applicable;No logging is needed in the file.
+389;Application.java;Exception Handling;Non Applicable;No exception handling required in the file.
+390;Application.java;Resource Management;Non Applicable;No resource management required in the file.
+391;UserDetailsServiceImpl.java;Source File Structure;Fully Fulfilled;Correct order with proper spacing and indentation.
+392;UserDetailsServiceImpl.java;Column Limit;Fully Fulfilled;No lines exceed 100 characters.
+393;UserDetailsServiceImpl.java;Naming Conventions;Fully Fulfilled;Consistent adherence to naming conventions.
+394;UserDetailsServiceImpl.java;Indentation;Fully Fulfilled;Consistent use of correct indentation.
+395;UserDetailsServiceImpl.java;Braces Style;Fully Fulfilled;Consistently uses correct K&R brace style.
+396;UserDetailsServiceImpl.java;Line-wrapping Techniques;Non Applicable;Not applicable as there are no instances where line-wrapping is required.
+397;UserDetailsServiceImpl.java;Javadoc Style;Not Fulfilled;No Javadoc present for the class or methods.
+398;UserDetailsServiceImpl.java;Annotations Usage;Fully Fulfilled;Correct and consistent use of annotations.
+399;UserDetailsServiceImpl.java;Imports Organization;Fully Fulfilled;No wildcard imports, correct ordering, and spacing.
+400;UserDetailsServiceImpl.java;Comments Style;Not Fulfilled;No comments present.
+401;UserDetailsServiceImpl.java;Usage of Logger;Non Applicable;No logging is needed in the file.
+402;UserDetailsServiceImpl.java;Exception Handling;Non Applicable;No exception handling required in the file.
+403;UserDetailsServiceImpl.java;Resource Management;Mostly Fulfilled;Field Injection is not recommended.

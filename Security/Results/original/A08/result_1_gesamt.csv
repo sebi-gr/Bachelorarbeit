@@ -1,0 +1,2 @@
+"Hard-coded credential in API call","Using a hard-coded credential in a call to a sensitive Java API may compromise security.","error","Hard-coded value flows to [[""sensitive API call""|""relative:///src/main/java/Main.java:17:29:17:32""]].","/src/main/java/Main.java","11","23","11","32"
+"Hard-coded credential in API call","Using a hard-coded credential in a call to a sensitive Java API may compromise security.","error","Hard-coded value flows to [[""sensitive API call""|""relative:///src/main/java/Main.java:17:35:17:38""]].","/src/main/java/Main.java","12","23","12","32"

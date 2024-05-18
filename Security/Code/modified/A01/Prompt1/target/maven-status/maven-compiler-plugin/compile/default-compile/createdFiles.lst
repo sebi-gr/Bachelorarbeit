@@ -1,0 +1,6 @@
+com/example/prompt1/Prompt1Application.class
+com/example/prompt1/User.class
+com/example/prompt1/Role.class
+com/example/prompt1/RoleRepository.class
+com/example/prompt1/UserRepository.class
+com/example/prompt1/SecurityConfig.class

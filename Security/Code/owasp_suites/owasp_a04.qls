@@ -1,0 +1,9 @@
+- description: OWASP Top 10 A04
+
+- queries: Security/CWE/CWE-209/
+- queries: Security/CWE/CWE-266/
+- queries: Security/CWE/CWE-312/
+- queries: Security/CWE/CWE-501/
+- queries: Security/CWE/CWE-522/
+- queries: Security/CWE/CWE-807/
+- queries: Security/CWE/CWE-927/

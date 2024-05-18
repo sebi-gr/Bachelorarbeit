@@ -1,0 +1,6 @@
+projectKey=A10-Prompt2
+serverUrl=http://localhost:9000
+serverVersion=9.9.4.87374
+dashboardUrl=http://localhost:9000/dashboard?id=A10-Prompt2
+ceTaskId=AY53Rp7hXT5Lc-DuiQQe
+ceTaskUrl=http://localhost:9000/api/ce/task?id=AY53Rp7hXT5Lc-DuiQQe

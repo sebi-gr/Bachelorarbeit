@@ -1,0 +1,1 @@
+"Local-user-controlled command line","Using externally controlled strings in a command line is vulnerable to malicious changes in the strings.","recommendation","This command line depends on a [[""user-provided value""|""relative:///src/main/java/CommandExecutor.java:6:39:6:47""]].","/src/main/java/CommandExecutor.java","12","57","12","63"

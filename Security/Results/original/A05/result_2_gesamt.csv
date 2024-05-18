@@ -1,0 +1,2 @@
+"Failure to use SSL","Non-SSL connections can be intercepted by third parties.","recommendation","Stream using vulnerable non-SSL connection.","/src/main/java/ApiClient.java","19","78","19","98"
+"Untrusted data passed to external API","Data provided remotely is used in this external API without sanitization, which could be a security risk.","error","Call to java.io.PrintStream.println with untrusted data from [[""getInputStream(...) : InputStream""|""relative:///src/main/java/ApiClient.java:19:78:19:98""]].","/src/main/java/ApiClient.java","28","36","28","69"

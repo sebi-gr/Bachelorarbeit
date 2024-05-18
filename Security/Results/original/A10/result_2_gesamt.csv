@@ -1,0 +1,1 @@
+"Failure to use SSL","Non-SSL connections can be intercepted by third parties.","recommendation","Stream using vulnerable non-SSL connection.","/src/main/java/URLContentFetcher.java","11","74","11","100"

@@ -1,0 +1,1 @@
+"Log Injection","Building log entries from user-controlled data may allow insertion of forged log entries by malicious users.","error","This log entry depends on a [[""user-provided value""|""relative:///src/main/java/com/example/prompt2/MyController.java:17:29:17:100""]].","/src/main/java/com/example/prompt2/MyController.java","18","37","18","44"

@@ -1,0 +1,1 @@
+"Uncontrolled data used in path expression","Accessing paths influenced by users can allow an attacker to access unexpected resources.","error","This path depends on a [[""user-provided value""|""relative:///src/main/java/FileUploadController.java:25:53:25:78""]].","/src/main/java/FileUploadController.java","26","25","26","28"

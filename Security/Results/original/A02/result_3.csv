@@ -1,0 +1,2 @@
+"Failure to use SSL","Non-SSL connections can be intercepted by third parties.","recommendation","Stream using vulnerable non-SSL socket.","/src/main/java/SecureServer.java","14","77","14","99"
+"Failure to use SSL","Non-SSL connections can be intercepted by third parties.","recommendation","Stream using vulnerable non-SSL socket.","/src/main/java/SecureServer.java","15","50","15","73"

@@ -1,0 +1,8 @@
+- description: OWASP Top 10 2021 A01
+
+- queries: Security/CWE/CWE-022/
+- queries: Security/CWE/CWE-023/
+- queries: Security/CWE/CWE-200/
+- queries: Security/CWE/CWE-352/
+- queries: Security/CWE/CWE-441/
+- queries: Security/CWE/CWE-601/

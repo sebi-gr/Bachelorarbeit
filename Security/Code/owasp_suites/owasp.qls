@@ -1,0 +1,58 @@
+- description: OWASP Top 10 2021
+
+- queries: Security/CWE/CWE-022/
+- queries: Security/CWE/CWE-023/
+- queries: Security/CWE/CWE-200/
+- queries: Security/CWE/CWE-352/
+- queries: Security/CWE/CWE-441/
+- queries: Security/CWE/CWE-601/
+
+- queries: Security/CWE/CWE-319/
+- queries: Security/CWE/CWE-326/
+- queries: Security/CWE/CWE-327/
+- queries: Security/CWE/CWE-330/
+- queries: Security/CWE/CWE-335/
+- queries: Security/CWE/CWE-338/
+- queries: Security/CWE/CWE-347/
+- queries: Security/CWE/CWE-780/
+
+- queries: Security/CWE/CWE-020/
+- exclude:
+    id:
+        - java/count-untrusted-data-external-api
+- queries: Security/CWE/CWE-074/
+- queries: Security/CWE/CWE-078/
+- queries: Security/CWE/CWE-079/
+- queries: Security/CWE/CWE-089/
+- queries: Security/CWE/CWE-090/
+- queries: Security/CWE/CWE-094/
+- queries: Security/CWE/CWE-470/
+- queries: Security/CWE/CWE-643/
+- queries: Security/CWE/CWE-917/
+
+- queries: Security/CWE/CWE-209/
+- queries: Security/CWE/CWE-266/
+- queries: Security/CWE/CWE-312/
+- queries: Security/CWE/CWE-501/
+- queries: Security/CWE/CWE-522/
+- queries: Security/CWE/CWE-807/
+- queries: Security/CWE/CWE-927/
+
+- queries: Security/CWE/CWE-611/
+- queries: Security/CWE/CWE-614/
+
+- queries: Security/CWE/CWE-1104/
+
+- queries: Security/CWE/CWE-287/
+- queries: Security/CWE/CWE-295/
+- queries: Security/CWE/CWE-297/
+- queries: Security/CWE/CWE-798/
+- queries: Security/CWE/CWE-940/
+
+- queries: Security/CWE/CWE-502/
+- queries: Security/CWE/CWE-829/
+
+- queries: Security/CWE/CWE-117/
+- queries: Security/CWE/CWE-532/
+
+- queries: Security/CWE/CWE-918/

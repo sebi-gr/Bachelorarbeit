@@ -1,0 +1,15 @@
+- description: OWASP Top 10 A03
+
+- queries: Security/CWE/CWE-020/
+- exclude:
+    id:
+        - java/count-untrusted-data-external-api
+- queries: Security/CWE/CWE-074/
+- queries: Security/CWE/CWE-078/
+- queries: Security/CWE/CWE-079/
+- queries: Security/CWE/CWE-089/
+- queries: Security/CWE/CWE-090/
+- queries: Security/CWE/CWE-094/
+- queries: Security/CWE/CWE-470/
+- queries: Security/CWE/CWE-643/
+- queries: Security/CWE/CWE-917/

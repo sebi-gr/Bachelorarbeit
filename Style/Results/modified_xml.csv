@@ -1,0 +1,191 @@
+﻿Consecutive ID;Filename;Characteristic;Rating;Reasoning
+1;BubbleSort.java;Source File Structure;Fully Fulfilled;Correct order, proper spacing, and indentation.
+2;BubbleSort.java;Column Limit;Fully Fulfilled;No lines exceed 100 characters
+3;BubbleSort.java;Naming Conventions;Fully Fulfilled;Consistent adherence to naming conventions.
+4;BubbleSort.java;Indentation;Fully Fulfilled;Consistent use of correct indentation
+5;BubbleSort.java;Braces Style;Fully Fulfilled;Consistently uses correct K&R brace style.
+6;BubbleSort.java;Line-wrapping Techniques;Non Applicable;Not applicable due to column limit adherence.
+7;BubbleSort.java;Javadoc Style;Fully Fulfilled;Comprehensive and correctly formatted Javadoc
+8;BubbleSort.java;Annotations Usage;Non Applicable;No annotations used in this file.
+9;BubbleSort.java;Imports Organization;Non Applicable;No imports used in this file.
+10;BubbleSort.java;Comments Style;Mostly Fulfilled;Comments are clear and useful but rare. 
+11;FileHandler.java;Source File Structure;Fully Fulfilled;Correct order, proper spacing, and indentation.
+12;FileHandler.java;Column Limit;Fully Fulfilled;No lines exceed 100 characters
+13;FileHandler.java;Naming Conventions;Fully Fulfilled;Consistent adherence to naming conventions.
+14;FileHandler.java;Indentation;Fully Fulfilled;Consistent use of correct indentation
+15;FileHandler.java;Braces Style;Fully Fulfilled;Consistently uses correct K&R brace style.
+16;FileHandler.java;Line-wrapping Techniques;Non Applicable;Not applicable due to column limit adherence.
+17;FileHandler.java;Javadoc Style;Fully Fulfilled;Comprehensive and correctly formatted Javadoc
+18;FileHandler.java;Annotations Usage;Non Applicable;No annotations used in this file.
+19;FileHandler.java;Imports Organization;Fully Fulfilled;No wildcard imports, correct ordering, and spacing.
+20;FileHandler.java;Comments Style;Not Fulfilled;No comments present in the file.
+21;Box.java;Source File Structure;Fully Fulfilled;Correct order, proper spacing, and indentation.
+22;Box.java;Column Limit;Fully Fulfilled;No lines exceed 100 characters
+23;Box.java;Naming Conventions;Fully Fulfilled;Consistent adherence to naming conventions.
+24;Box.java;Indentation;Fully Fulfilled;Consistent use of correct indentation
+25;Box.java;Braces Style;Fully Fulfilled;Consistently uses correct K&R brace style.
+26;Box.java;Line-wrapping Techniques;Non Applicable;Not applicable due to column limit adherence.
+27;Box.java;Javadoc Style;Fully Fulfilled;Comprehensive and correctly formatted Javadoc
+28;Box.java;Annotations Usage;Non Applicable;No annotations used in this file.
+29;Box.java;Imports Organization;Non Applicable;No imports used in this file.
+30;Box.java;Comments Style;Non Applicable; JavaDoc is used for comments.
+31;MainGenerics.java;Source File Structure;Fully Fulfilled;Correct order, proper spacing, and indentation.
+32;MainGenerics.java;Column Limit;Fully Fulfilled;No lines exceed 100 characters
+33;MainGenerics.java;Naming Conventions;Fully Fulfilled;Consistent adherence to naming conventions.
+34;MainGenerics.java;Indentation;Fully Fulfilled;Consistent use of correct indentation
+35;MainGenerics.java;Braces Style;Fully Fulfilled;Consistently uses correct K&R brace style.
+36;MainGenerics.java;Line-wrapping Techniques;Non Applicable;Not applicable due to column limit adherence.
+37;MainGenerics.java;Javadoc Style;Fully Fulfilled;Comprehensive and correctly formatted Javadoc
+38;MainGenerics.java;Annotations Usage;Non Applicable;No annotations used in this file.
+39;MainGenerics.java;Imports Organization;Non Applicable;No imports used in this file.
+40;MainGenerics.java;Comments Style;Not Fulfilled;No comments present in the file.
+41;LambdaExample.java;Source File Structure;Fully Fulfilled;Correct order, proper spacing, and indentation.
+42;LambdaExample.java;Column Limit;Fully Fulfilled;No lines exceed 100 characters
+43;LambdaExample.java;Naming Conventions;Fully Fulfilled;Consistent adherence to naming conventions.
+44;LambdaExample.java;Indentation;Fully Fulfilled;Consistent use of correct indentation
+45;LambdaExample.java;Braces Style;Fully Fulfilled;Consistently uses correct K&R brace style.
+46;LambdaExample.java;Line-wrapping Techniques;Non Applicable;Not applicable due to column limit adherence.
+47;LambdaExample.java;Javadoc Style;Fully Fulfilled;Comprehensive and correctly formatted Javadoc
+48;LambdaExample.java;Annotations Usage;Non Applicable;No annotations used in this file.
+49;LambdaExample.java;Imports Organization;Fully Fulfilled;No wildcard imports, correct ordering, and spacing.
+50;LambdaExample.java;Comments Style;Not Fulfilled;No comments present in the file.
+51;Client.java;Source File Structure;Fully Fulfilled;Correct order, proper spacing, and indentation.
+52;Client.java;Column Limit;Mostly Fulfilled;One instance slightly exceeding 100 characters.
+53;Client.java;Naming Conventions;Fully Fulfilled;Consistent adherence to naming conventions.
+54;Client.java;Indentation;Fully Fulfilled;Consistent use of correct indentation
+55;Client.java;Braces Style;Fully Fulfilled;Consistently uses correct K&R brace style.
+56;Client.java;Line-wrapping Techniques;Mostly Fulfilled;Most lines are wrapped correctly, but a few are not.
+57;Client.java;Javadoc Style;Fully Fulfilled;Comprehensive and correctly formatted Javadoc
+58;Client.java;Annotations Usage;Non Applicable;No annotations used in this file.
+59;Client.java;Imports Organization;Fully Fulfilled;No wildcard imports, correct ordering, and spacing.
+60;Client.java;Comments Style;Not Fulfilled;No comments present in the file.
+61;MainSockets.java;Source File Structure;Fully Fulfilled;Correct order, proper spacing, and indentation.
+62;MainSockets.java;Column Limit;Fully Fulfilled;No lines exceed 100 characters
+63;MainSockets.java;Naming Conventions;Fully Fulfilled;Consistent adherence to naming conventions.
+64;MainSockets.java;Indentation;Fully Fulfilled;Consistent use of correct indentation
+65;MainSockets.java;Braces Style;Fully Fulfilled;Consistently uses correct K&R brace style.
+66;MainSockets.java;Line-wrapping Techniques;Non Applicable;Not applicable due to column limit adherence.
+67;MainSockets.java;Javadoc Style;Fully Fulfilled;Comprehensive and correctly formatted Javadoc
+68;MainSockets.java;Annotations Usage;Non Applicable;No annotations used in this file.
+69;MainSockets.java;Imports Organization;Non Applicable;No imports used in this file.
+70;MainSockets.java;Comments Style;Not Fulfilled;No comments present in the file.
+71;Server.java;Source File Structure;Fully Fulfilled;Correct order, proper spacing, and indentation.
+72;Server.java;Column Limit;Mostly Fulfilled;One instance slightly exceeding 100 characters.
+73;Server.java;Naming Conventions;Fully Fulfilled;Consistent adherence to naming conventions.
+74;Server.java;Indentation;Fully Fulfilled;Consistent use of correct indentation
+75;Server.java;Braces Style;Fully Fulfilled;Consistently uses correct K&R brace style.
+76;Server.java;Line-wrapping Techniques;Non Applicable;Not applicable due to column limit adherence.
+77;Server.java;Javadoc Style;Fully Fulfilled;Comprehensive and correctly formatted Javadoc
+78;Server.java;Annotations Usage;Non Applicable;No annotations used in this file.
+79;Server.java;Imports Organization;Fully Fulfilled;No wildcard imports, correct ordering, and spacing.
+80;Server.java;Comments Style;Not Fulfilled;No comments present in the file.
+81;Car.java;Source File Structure;Fully Fulfilled;Correct order, proper spacing, and indentation.
+82;Car.java;Column Limit;Fully Fulfilled;No lines exceed 100 characters
+83;Car.java;Naming Conventions;Fully Fulfilled;Consistent adherence to naming conventions.
+84;Car.java;Indentation;Fully Fulfilled;Consistent use of correct indentation
+85;Car.java;Braces Style;Fully Fulfilled;Consistently uses correct K&R brace style.
+86;Car.java;Line-wrapping Techniques;Non Applicable;Not applicable due to column limit adherence.
+87;Car.java;Javadoc Style;Fully Fulfilled;Comprehensive and correctly formatted Javadoc
+88;Car.java;Annotations Usage;Non Applicable;No annotations used in this file.
+89;Car.java;Imports Organization;Non Applicable;No imports used in this file.
+90;Car.java;Comments Style;Not Fulfilled;No comments present in the file.
+91;MainOopm.java;Source File Structure;Fully Fulfilled;Correct order, proper spacing, and indentation.
+92;MainOopm.java;Column Limit;Mostly Fulfilled;One instance slightly exceeding 100 characters.
+93;MainOopm.java;Naming Conventions;Fully Fulfilled;Consistent adherence to naming conventions.
+94;MainOopm.java;Indentation;Fully Fulfilled;Consistent use of correct indentation
+95;MainOopm.java;Braces Style;Fully Fulfilled;Consistently uses correct K&R brace style.
+96;MainOopm.java;Line-wrapping Techniques;Mostly Fulfilled;Most lines are wrapped correctly, but a few are not.
+97;MainOopm.java;Javadoc Style;Fully Fulfilled;Comprehensive and correctly formatted Javadoc
+98;MainOopm.java;Annotations Usage;Non Applicable;No annotations used in this file.
+99;MainOopm.java;Imports Organization;Non Applicable;No imports used in this file.
+100;MainOopm.java;Comments Style;Not Fulfilled;No comments present in the file.
+101;Vehicle.java;Source File Structure;Fully Fulfilled;Correct order, proper spacing, and indentation.
+102;Vehicle.java;Column Limit;Fully Fulfilled;No lines exceed 100 characters
+103;Vehicle.java;Naming Conventions;Fully Fulfilled;Consistent adherence to naming conventions.
+104;Vehicle.java;Indentation;Fully Fulfilled;Consistent use of correct indentation
+105;Vehicle.java;Braces Style;Fully Fulfilled;Consistently uses correct K&R brace style.
+106;Vehicle.java;Line-wrapping Techniques;Non Applicable;Not applicable due to column limit adherence.
+107;Vehicle.java;Javadoc Style;Fully Fulfilled;Comprehensive and correctly formatted Javadoc
+108;Vehicle.java;Annotations Usage;Non Applicable;No annotations used in this file.
+109;Vehicle.java;Imports Organization;Non Applicable;No imports used in this file.
+110;Vehicle.java;Comments Style;Not Fulfilled;No comments present in the file.
+111;ReflectionExample.java;Source File Structure;Fully Fulfilled;Correct order, proper spacing, and indentation.
+112;ReflectionExample.java;Column Limit;Fully Fulfilled;No lines exceed 100 characters
+113;ReflectionExample.java;Naming Conventions;Fully Fulfilled;Consistent adherence to naming conventions.
+114;ReflectionExample.java;Indentation;Fully Fulfilled;Consistent use of correct indentation
+115;ReflectionExample.java;Braces Style;Fully Fulfilled;Consistently uses correct K&R brace style.
+116;ReflectionExample.java;Line-wrapping Techniques;Non Applicable;Not applicable due to column limit adherence.
+117;ReflectionExample.java;Javadoc Style;Fully Fulfilled;Comprehensive and correctly formatted Javadoc
+118;ReflectionExample.java;Annotations Usage;Non Applicable;No annotations used in this file.
+119;ReflectionExample.java;Imports Organization;Fully Fulfilled;No wildcard imports, correct ordering, and spacing.
+120;ReflectionExample.java;Comments Style;Not Fulfilled;No comments present in the file.
+121;Calculator.java;Source File Structure;Fully Fulfilled;Correct order, proper spacing, and indentation.
+122;Calculator.java;Column Limit;Fully Fulfilled;No lines exceed 100 characters
+123;Calculator.java;Naming Conventions;Fully Fulfilled;Consistent adherence to naming conventions.
+124;Calculator.java;Indentation;Fully Fulfilled;Consistent use of correct indentation
+125;Calculator.java;Braces Style;Fully Fulfilled;Consistently uses correct K&R brace style.
+126;Calculator.java;Line-wrapping Techniques;Non Applicable;Not applicable due to column limit adherence.
+127;Calculator.java;Javadoc Style;Fully Fulfilled;Comprehensive and correctly formatted Javadoc
+128;Calculator.java;Annotations Usage;Non Applicable;No annotations used in this file.
+129;Calculator.java;Imports Organization;Non Applicable;No imports used in this file.
+130;Calculator.java;Comments Style;Not Fulfilled;No comments present in the file.
+131;CalculatorTest.java;Source File Structure;Not Fulfilled;Missing or incorrect package statement
+132;CalculatorTest.java;Column Limit;Fully Fulfilled;No lines exceed 100 characters
+133;CalculatorTest.java;Naming Conventions;Fully Fulfilled;Consistent adherence to naming conventions.
+134;CalculatorTest.java;Indentation;Fully Fulfilled;Consistent use of correct indentation
+135;CalculatorTest.java;Braces Style;Fully Fulfilled;Consistently uses correct K&R brace style.
+136;CalculatorTest.java;Line-wrapping Techniques;Non Applicable;Not applicable due to column limit adherence.
+137;CalculatorTest.java;Javadoc Style;Fully Fulfilled;Comprehensive and correctly formatted Javadoc
+138;CalculatorTest.java;Annotations Usage;Non Applicable;No annotations used in this file.
+139;CalculatorTest.java;Imports Organization;Fully Fulfilled;No wildcard imports, correct ordering, and spacing
+140;CalculatorTest.java;Comments Style;Not Fulfilled;No comments present in the file.
+141;WebSecurityConfig.java;Source File Structure;Fully Fulfilled;Correct order, proper spacing, and indentation.
+142;WebSecurityConfig.java;Column Limit;Mostly Fulfilled;One instance slightly exceeding 100 characters.
+143;WebSecurityConfig.java;Naming Conventions;Fully Fulfilled;Consistent adherence to naming conventions.
+144;WebSecurityConfig.java;Indentation;Fully Fulfilled;Consistent use of correct indentation
+145;WebSecurityConfig.java;Braces Style;Fully Fulfilled;Consistently uses correct K&R brace style.
+146;WebSecurityConfig.java;Line-wrapping Techniques;Mostly Fulfilled;Line wrapping used inconsistently or incorrectly
+147;WebSecurityConfig.java;Javadoc Style;Fully Fulfilled;Comprehensive and correctly formatted Javadoc
+148;WebSecurityConfig.java;Annotations Usage;Fully Fulfilled;Correct and consistent use of annotations
+149;WebSecurityConfig.java;Imports Organization;Fully Fulfilled;No wildcard imports, correct ordering, and spacing
+150;WebSecurityConfig.java;Comments Style;Not Fulfilled;No comments present in the file.
+151;UserController.java;Source File Structure;Fully Fulfilled;Correct order, proper spacing, and indentation.
+152;UserController.java;Column Limit;Fully Fulfilled;No lines exceed 100 characters
+153;UserController.java;Naming Conventions;Fully Fulfilled;Consistent adherence to naming conventions.
+154;UserController.java;Indentation;Fully Fulfilled;Consistent use of correct indentation
+155;UserController.java;Braces Style;Fully Fulfilled;Consistently uses correct K&R brace style.
+156;UserController.java;Line-wrapping Techniques;Non Applicable;Not applicable due to column limit adherence.
+157;UserController.java;Javadoc Style;Fully Fulfilled;Comprehensive and correctly formatted Javadoc
+158;UserController.java;Annotations Usage;Fully Fulfilled;Correct and consistent use of annotations
+159;UserController.java;Imports Organization;Fully Fulfilled;No wildcard imports, correct ordering, and spacing
+160;UserController.java;Comments Style;Not Fulfilled;No comments present in the file.
+161;User.java;Source File Structure;Fully Fulfilled;Correct order, proper spacing, and indentation.
+162;User.java;Column Limit;Fully Fulfilled;No lines exceed 100 characters
+163;User.java;Naming Conventions;Fully Fulfilled;Consistent adherence to naming conventions.
+164;User.java;Indentation;Fully Fulfilled;Consistent use of correct indentation
+165;User.java;Braces Style;Fully Fulfilled;Consistently uses correct K&R brace style.
+166;User.java;Line-wrapping Techniques;Non Applicable;Not applicable due to column limit adherence.
+167;User.java;Javadoc Style;Fully Fulfilled;Comprehensive and correctly formatted Javadoc
+168;User.java;Annotations Usage;Fully Fulfilled;Correct and consistent use of annotations
+169;User.java;Imports Organization;Fully Fulfilled;No wildcard imports, correct ordering, and spacing
+170;User.java;Comments Style;Not Fulfilled;No comments present in the file.
+171;UserRepository.java;Source File Structure;Fully Fulfilled;Correct order, proper spacing, and indentation.
+172;UserRepository.java;Column Limit;Fully Fulfilled;No lines exceed 100 characters
+173;UserRepository.java;Naming Conventions;Fully Fulfilled;Consistent adherence to naming conventions
+174;UserRepository.java;Indentation;Fully Fulfilled;Consistent use of correct indentation
+175;UserRepository.java;Braces Style;Fully Fulfilled;Consistently uses correct K&R brace style.
+176;UserRepository.java;Line-wrapping Techniques;Non Applicable;Not applicable due to column limit adherence.
+177;UserRepository.java;Javadoc Style;Fully Fulfilled;Comprehensive and correctly formatted Javadoc
+178;UserRepository.java;Annotations Usage;Non Applicable;No annotations used in this file.
+179;UserRepository.java;Imports Organization;Fully Fulfilled;No wildcard imports, correct ordering, and spacing
+180;UserRepository.java;Comments Style;Not Fulfilled;No comments present in the file.
+181;UserDetailsService.java;Source File Structure;Fully Fulfilled;Correct order, proper spacing, and indentation.
+182;UserDetailsService.java;Column Limit;Partially Fulfilled;A few lines exceed 100 characters
+183;UserDetailsService.java;Naming Conventions;Fully Fulfilled;Consistent adherence to naming conventions.
+184;UserDetailsService.java;Indentation;Fully Fulfilled;Consistent use of correct indentation
+185;UserDetailsService.java;Braces Style;Fully Fulfilled;Consistently uses correct K&R brace style.
+186;UserDetailsService.java;Line-wrapping Techniques;Mostly Fulfilled;Line wrapping used inconsistently or incorrectly
+187;UserDetailsService.java;Javadoc Style;Fully Fulfilled;Comprehensive and correctly formatted Javadoc
+188;UserDetailsService.java;Annotations Usage;Fully Fulfilled;Correct and consistent use of annotations
+189;UserDetailsService.java;Imports Organization;Fully Fulfilled;No wildcard imports, correct ordering, and spacing
+190;UserDetailsService.java;Comments Style;Not Fulfilled;No comments present in the file.
