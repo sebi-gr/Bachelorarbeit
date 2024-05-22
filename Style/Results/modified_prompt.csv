@@ -23,7 +23,7 @@
 22;FileHandler.java;Imports Organization;Fully Fulfilled;No wildcard imports, correct ordering, and spacing.
 23;FileHandler.java;Comments Style;Not Fulfilled;No comments present in the file.
 24;FileHandler.java;Usage of Logger;Fully Fulfilled;Exclusive use of a logging framework for all diagnostic messages.
-25;FileHandler.java;Exception Handling;Mostly Fulfilled;"Uses specific exceptions; catch blocks include meaningful handling. But either log or rethrow the exception."
+25;FileHandler.java;Exception Handling;Mostly Fulfilled;Uses specific exceptions; catch blocks include meaningful handling. But either log or rethrow the exception.
 26;FileHandler.java;Resource Management;Fully Fulfilled;Consistent and correct use of try-with-resources for automatic resource management.
 27;GenericStack.java;Source File Structure;Fully Fulfilled;Correct order, proper spacing, and indentation.
 28;GenericStack.java;Column Limit;Fully Fulfilled;No lines exceed 100 characters.
@@ -36,7 +36,7 @@
 35;GenericStack.java;Imports Organization;Fully Fulfilled;No wildcard imports, correct ordering, and spacing.
 36;GenericStack.java;Comments Style;Fully Fulfilled;Comment is clear and useful.
 37;GenericStack.java;Usage of Logger;Fully Fulfilled;Exclusive use of a logging framework for all diagnostic messages.
-38;GenericStack.java;Exception Handling;Fully Fulfilled;"Uses specific exceptions; catch blocks include meaningful handling."
+38;GenericStack.java;Exception Handling;Fully Fulfilled;Uses specific exceptions; catch blocks include meaningful handling.
 39;GenericStack.java;Resource Management;Non Applicable;No explicit resource management required in this file.
 40;Person.java;Source File Structure;Fully Fulfilled;Correct order, proper spacing, and indentation.
 41;Person.java;Column Limit;Fully Fulfilled;No lines exceed 100 characters.
