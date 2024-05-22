@@ -10,7 +10,7 @@
 9;BubbleSort.java;Imports Organization;Fully Fulfilled;No wildcard imports, correct ordering, and spacing.
 10;BubbleSort.java;Comments Style;Mostly Fulfilled;Comments are clear and useful but rare. 
 11;BubbleSort.java;Usage of Logger;Fully Fulfilled;Exclusive use of a logging framework for all diagnostic messages.
-12;BubbleSort.java;Exception Handling;Mostly Fulfilled;"Uses specific exceptions; catch blocks include meaningful handling."
+12;BubbleSort.java;Exception Handling;Mostly Fulfilled;Uses specific exceptions; catch blocks include meaningful handling.
 13;BubbleSort.java;Resource Management;Non Applicable;No explicit resource management required in this file.
 14;FileHandler.java;Source File Structure;Fully Fulfilled;Correct order, proper spacing, and indentation.
 15;FileHandler.java;Column Limit;Fully Fulfilled;No lines exceed 100 characters.
